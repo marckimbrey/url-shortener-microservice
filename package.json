@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener-microservice",
+  "version": "1.0.0",
+  "description": "URL shortener microservice using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marckimbrey/url-shortener-microservice.git"
+  },
+  "author": "marc kimbrey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marckimbrey/url-shortener-microservice/issues"
+  },
+  "homepage": "https://github.com/marckimbrey/url-shortener-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongodb": "^2.2.22"
+  }
+}
