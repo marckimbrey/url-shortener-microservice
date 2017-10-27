@@ -1,0 +1,17 @@
+body {
+  font-size: 1.5em;
+  margin: 5% 10%;
+}
+
+code {
+  background: #4ff;
+  padding: 1em;
+}
+.fa:hover {
+    color: #ccf;
+}
+
+a {
+  line-height: middle;
+  margin-left: 1em;
+}
